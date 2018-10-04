@@ -78,4 +78,8 @@ Le groupe d'intervention arrive. Ils descendent par la cage d'ascenseur. Une pre
 
 ## Paiement
 
-Si ils ne ramene rien, ils n'auront rien. Si ils ont les serums antidote +2000 par unité (1 seul ou assez pour soigner les personnages). Si ils ont des échantillons de tissus +1000. Si ils ont les résultats de recherche +1000, +2000 si ils en ont beaucoup. Si ils ont les serums de virus +1000. 
+* Si ils ne ramene rien, ils n'auront rien. 
+* Si ils ont les serums antidote +2000 (1 seul ou assez pour soigner les personnages). 
+* Si ils ont des échantillons de tissus +1000
+* Si ils ont les résultats de recherche +1000, +2000 si ils en ont beaucoup
+* Si ils ont les serums de virus +1000. 
