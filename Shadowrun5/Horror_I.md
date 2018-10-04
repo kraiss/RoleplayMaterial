@@ -1,4 +1,6 @@
 
+# Intro
+
 ## Emploi
 
 Les PJs sont envoyés chercher des documents de recherche et si possible des échantillons dans un complexe de recherche biologique maintenant désafecté. Il n'y a plus dé sécurité. Il a déjà envoyé un équipe mais ils n'ont rien trouvé d'interessant. Son commanditaire assure qu'il y a mieux a trouver. 
@@ -21,22 +23,34 @@ Dans le labo 17, une grande table d'autopsie trone au milieur de la salle mais e
 
 L'ascenseur semble descendre plusieurs dizaines de mètres. A un moment, ils sont projeté sur le plafond de l'ascenseur. Un mage reconnaitra une barrière magique puissante mais faible. L'ascenseur force et la barrière cède. L'ascenseur dégringole encore quelques mètres avant de s'écraser. Si ce n'était pas déjà le cas, l'alarme se déclenche et annonce l'arrivée du groupe d'intervention. 
 
-## Le complexe début
+# Le complexe
+
+## Debut
 
 Le complexe est lumineux et l'alarme sonne, les PJ s'extraient de l'ascenseur alors que arcs éléctriques se créent. Un arc fait un grand bruit et fait dysjoncter tout les complexe. Moment dans le noir où l'on entends de cris strident qui se rapprochent. Puis les lumières de secours prennent le relais. L'endroit à l'air plutot en ordre surtout par ici. Les cris continuent de se rapprocher, aux bouts d'un moment même des bruits de griffes. Ils doivent s'abriter, leur meilleur chance et de rentrer dans un pièce et de s'y cacher OU de séloigner le plus vite possible de l'ascenseur dans un couloir qui d'où ne semble pas venir des bruit.
 
-## Le complexe 
+## Exploration
 
 Les choses qui cris et courent vers le bruit sont des goules. Ils devront jouer à cache cache avec elles. Si ils font du bruit, elles accourent. Outre la discrétion ils tomberont sur différentes expériences et compte rendu, plus ils cherchent dans le complexe, plus ils trouvent de choses. Les sérums ne sont pas au même endroit. 
 
-Les goules sont belles et bien vivantes, elle sont aveugles mais pas sourdes ni privées d'odorat #punirStyleDeVieRue. Aucun cadavres de non infectés dévorés dans les couloirs ou labo mais des cellules cassées/éventrées, des labos d'analyse sanguines ET de tissus, des labos de stock des souches (4 echatillons restants), un labo pour créer un serum (2 echantillons, un dans le labo, un dans une zone de test qui n'a pas été inoculé),
+Les goules sont belles et bien vivantes, elle sont aveugles mais pas sourdes ni privées d'odorat #punirStyleDeVieRue. Aucun cadavres de non infectés dévorés dans les couloirs ou labo
+ 
+## Scènes ou salles horrifiques et/ou gore
 
-Ne pas lesiné sur les jump scare et autres joyeuseté. Ex: Ouvrir une porte sur une goule (pas alertée si pas de bruit, puis peut etre pourte qui grince ou peut etre juste la goule qui marche). 
+ * Une video où l'on voit plusieurs goules se jeter sur un non infectés et le dévorer
+ * Une salle avec des goules de plusieurs métatypes et age en cuve (un frémit.. ou peut-etre est-ce l'imagination du PJ)
+ * Une salle de dissection et d'autopsie (des membres dans des bocaux bien sur !)
+ * La zone de tests pour des combats entre goules ou pour tester la violence des goules (avec des enregistrements videos..)
+ * Cellules de rétention des infectés cassées/éventrées
+ * Ouverture d'une porte sur une goule (pas alertée si pas de bruit, puis peut etre pourte qui grince ou peut etre juste la goule qui marche)
 
 ## Matériel important à trouver
 
  * Carte du complexe 
  * Carte des canalisations (montrant notamment la sortie !!)
+ * Labo de stockage et d'analyse des souches (4 echatillons restants)
+ * Labo de création et d'analyse du serum antidote (2 echantillons, un dans le labo
+ * Un survivant dans une cellule de test du serum antidote. Il a l'apparence d'un humain mais avec quelques lésions de restants de son déut de transformatioon en goule. Il est mal-voyant. 
 
 ## Données d'experience
 
@@ -49,14 +63,10 @@ A agrémenté du comment (analyse de sang, compte rendu, des enregistrements vid
  * Une formule de production de serum antidote. 
  * Un protocole d'extraction de VVHMH "en toute sécurité". Le serum antidote empeche stoppe la transformation si administrée dans la première journée, sinon irreversible (parfois certaines transformations restent: pilosité, couleur des yeux, etc)
  * Un protocole pour nourrir les goules. Elles ne s'interessent qu'à des sujets vivants. Les enfants semblent plus nourissants probablement car plus "denses" en essence. 
+ * Les goules comme arme biologique et/ou le virus comme arme bactériologique. La conclusion est que le résultat n'est pas probant car la propagation de l'infection n'est pas garantie (ou du moins pas assez importante)
  * ...
- 
-## Scènes ou salles horrifiques et/ou gore
 
- * Une video où l'on voit plusieurs goules se jeter sur un non infectés et le dévorer
- * Une salle avec des goules de plusieurs métatypes et age en cuve (un frémit.. ou peut-etre est-ce l'imagination du PJ)
- * Une salle de dissection et d'autopsie (des membres dans des bocaux bien sur !)
- * La zone de tests pour des combats entre goules ou pour tester la violence des goules (avec des enregistrements videos..)
+# Fin
 
 ## Sortie 1
 
