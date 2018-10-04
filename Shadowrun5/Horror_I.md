@@ -52,18 +52,23 @@ Les goules sont belles et bien vivantes, elle sont aveugles mais pas sourdes ni 
  * Labo de création et d'analyse du serum antidote (2 echantillons, un dans le labo
  * Un survivant dans une cellule de test du serum antidote. Il a l'apparence d'un humain mais avec quelques lésions de restants de son déut de transformatioon en goule. Il est mal-voyant. 
 
-## Données d'experience
+## Données d'experience VVHMH III
 
-A agrémenté du comment (analyse de sang, compte rendu, des enregistrements video, etc): 
- * Tout les MH qui ont eu l'injection de VVHMH se sont transformés en goule, sans exception. 
- * Peu de transmissions de goule à MH normalement, notamment par qu'elles dévorents leur proies. Toutefois si juste infectés par morsures ou griffures ou contacts muqueux, infection et transformation. 
- * La croissance est stoppée, notamment chez les enfants. L'esperance de vie est probablement diminuée mais pas de chiffres précis, seulement des décès prématurés. 
- * Il est possible de poussés des goules a se battre en les exitant avant OU en les poussant a se battre pour leur nourriture. 
+A agrémenté du comment (analyse de sang, compte rendu, des enregistrements video, etc):
+ * Le VVHMH est un retrovirus. Il affecte le code géntique ET l'aura. 
+ * Tout les MH qui ont eu l'injection de VVHMH se sont transformés en goule, sans exception. Le virus est extremement virulent.
  * Les goules trolls et orks sont beaucoup plus puissantes. Les goules elfes plus agiles. Les goules naines.. plus petite. 
- * Une formule de production de serum antidote. 
- * Un protocole d'extraction de VVHMH "en toute sécurité". Le serum antidote empeche stoppe la transformation si administrée dans la première journée, sinon irreversible (parfois certaines transformations restent: pilosité, couleur des yeux, etc)
- * Un protocole pour nourrir les goules. Elles ne s'interessent qu'à des sujets vivants. Les enfants semblent plus nourissants probablement car plus "denses" en essence. 
- * Les goules comme arme biologique et/ou le virus comme arme bactériologique. La conclusion est que le résultat n'est pas probant car la propagation de l'infection n'est pas garantie (ou du moins pas assez importante)
+ * Les sujets infectés présentent une sorte de perte d'essence similaire a celle de l'installation de cyberware. Les changements sont tellement importants au niveau du corps et de l'aura qu'ils déséquilibre le sujet menant à une perte d'essence.
+ * Beaucoup de sujets sont morts pendant la phase d'infection avant de passer à la phase de transformation
+ * Peu de transmissions de goule à MH en laboratoire car elles dévorents les sujets. Toutefois une morsure, griffure, fluides corporels en contact avec un plaie ou une muqueuse ou au contact d'une plaie, le sujet peut développer l'infection.
+ * Quelques rares, il a été observé des infections partiels des sujets. Le poruquoi n'est pas encore expliqué.
+ * La croissance est stoppée, notamment chez les enfants. L'esperance de vie est diminuée du à la perte rapide d'essence mais pas de chiffres précis, seulement des décès "prématurés". 
+ * ...
+ * Les goules sont violentes et se battent parfois. Il est possible d'accentué le phénomène en les excitant avant OU en les poussant a se battre pour leur nourriture. 
+ * Une formule de production de serum antidote. Le serum antidote stoppe l'infection si administrée suffisement tot mais n'annule les modifications induite par la transformation, elles sont irreversibles (ex: perte de pilosité, couleur des yeux, couleur de la peau, etc)
+ * Un protocole d'extraction de VVHMH "en toute sécurité"
+ * Un protocole pour nourrir les goules. Elles ne s'interessent qu'à des sujets vivants. Les sujets jeunes et les sujets eveillés semblent plus interessant . 
+ * Les goules comme arme biologique et/ou le virus comme arme bactériologique. Les conclusions sont que ces procédés seraient très efficaces mais très dangereux à cause du potentiel très important de perte de controle.
  * ...
 
 # Fin
