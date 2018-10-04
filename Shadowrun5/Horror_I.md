@@ -27,15 +27,20 @@ Le complexe est lumineux et l'alarme sonne, les PJ s'extraient de l'ascenseur al
 
 ## Le complexe 
 
-Les choses qui cris et courent vers le bruit sont des goules. Ils devront jouer à cache cache avec elles. Si ils font du bruit, elles accourent. Outre la discrétion ils tomberont sur différentes expériences et compte rendu, plus ils cherchent dans le complexe, plus ils trouvent de choses. Les sérums ne sont pas au même endroit (sauf peut etre les soins si necessaires). 
+Les choses qui cris et courent vers le bruit sont des goules. Ils devront jouer à cache cache avec elles. Si ils font du bruit, elles accourent. Outre la discrétion ils tomberont sur différentes expériences et compte rendu, plus ils cherchent dans le complexe, plus ils trouvent de choses. Les sérums ne sont pas au même endroit. 
 
-Parmis leur trouvaille, une carte du complexe, une carte des canalisations montrant notamment la sortie !!, des autopsie de goules, les goules belles et bien vivantes elle sont aveugles mais pas sourdes ni privées d'odorat (#punirStyleDeVieRue), divers membres dans des bocaux, beaucoup de comptes rendus d'experience (voir sections suivantes), aucun cadavres de non infectés dévorés dans les couloirs ou labo mais des cellules cassées/éventrées, des labos d'analyse sanguines ET de tissus, des labos de stock des souches (4 echatillons restants), un labo pour créer un serum (2 echantillons, un dans le labo, un dans une zone de test qui n'a pas été inoculé), des zones de tests pour des combats entre goules ou pour tester la violence des goules
+Les goules sont belles et bien vivantes, elle sont aveugles mais pas sourdes ni privées d'odorat #punirStyleDeVieRue. Aucun cadavres de non infectés dévorés dans les couloirs ou labo mais des cellules cassées/éventrées, des labos d'analyse sanguines ET de tissus, des labos de stock des souches (4 echatillons restants), un labo pour créer un serum (2 echantillons, un dans le labo, un dans une zone de test qui n'a pas été inoculé),
 
 Ne pas lesiné sur les jump scare et autres joyeuseté. Ex: Ouvrir une porte sur une goule (pas alertée si pas de bruit, puis peut etre pourte qui grince ou peut etre juste la goule qui marche). 
 
+## Matériel important à trouver
+
+ * Carte du complexe 
+ * Carte des canalisations (montrant notamment la sortie !!)
+
 ## Données d'experience
 
-A agrémenté du comment (analyse de sang, compte rendu, etc): 
+A agrémenté du comment (analyse de sang, compte rendu, des enregistrements video, etc): 
  * Tout les MH qui ont eu l'injection de VVHMH se sont transformés en goule, sans exception. 
  * Peu de transmissions de goule à MH normalement, notamment par qu'elles dévorents leur proies. Toutefois si juste infectés par morsures ou griffures ou contacts muqueux, infection et transformation. 
  * La croissance est stoppée, notamment chez les enfants. L'esperance de vie est probablement diminuée mais pas de chiffres précis, seulement des décès prématurés. 
@@ -45,6 +50,13 @@ A agrémenté du comment (analyse de sang, compte rendu, etc):
  * Un protocole d'extraction de VVHMH "en toute sécurité". Le serum antidote empeche stoppe la transformation si administrée dans la première journée, sinon irreversible (parfois certaines transformations restent: pilosité, couleur des yeux, etc)
  * Un protocole pour nourrir les goules. Elles ne s'interessent qu'à des sujets vivants. Les enfants semblent plus nourissants probablement car plus "denses" en essence. 
  * ...
+ 
+## Scènes ou salles horrifiques et/ou gore
+
+ * Une video où l'on voit plusieurs goules se jeter sur un non infectés et le dévorer
+ * Une salle avec des goules de plusieurs métatypes et age en cuve (un frémit.. ou peut-etre est-ce l'imagination du PJ)
+ * Une salle de dissection et d'autopsie (des membres dans des bocaux bien sur !)
+ * La zone de tests pour des combats entre goules ou pour tester la violence des goules (avec des enregistrements videos..)
 
 ## Sortie 1
 
