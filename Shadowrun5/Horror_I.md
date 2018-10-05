@@ -17,7 +17,14 @@ Beaucoup de notes sur des recherches sur des des métahumains et sur l'éveil. A
 
 ## Recherche sous-sol 
 
-L'endroit a été pillé. Ils devront cherchés dans plusieurs labos pour avoir assez d'information à recouper. Il leur faudra différent tests comme enquete physique ou matrice, connaissance en science, etc. Parmi les informations: analyse de tissus de plusieurs métatypes qui semble altérés par une source externe (avec les connaissances suffisantes un virus, avec les connaissances parfaites le VVHMH souche III), labo de magie de création de réactifs (avec une reussite suffisante, tentative pour les créer a partir d'essence pure..), des échantillons de mutahumains (rien de particulier, pas infectés, les morceaux infectés de cet étage sont partis avec les chercheurs), les recherches ont été abandonnés il y a 2 semaines et le labo va être "nettoyés" demain (les raisons.. TGCM and stuff), le laboratoire 17 est reférencé dans beaucoup d'informations (compte rendu papier, datapad, etc), cette partie du labo est offline (pas connecté à la matrice) et d'autres si idées. Le labo 17 étant l'information la plus importante. 
+L'endroit a été pillé. Ils devront cherchés dans plusieurs labos pour avoir assez d'information à recouper. Il leur faudra différent tests comme enquete physique ou matrice, connaissance en science, etc. Parmi les informations: 
+* analyse de tissus de plusieurs métatypes qui semble altérés par une source externe (avec les connaissances suffisantes un virus, avec les connaissances parfaites le VVHMH souche III)
+* labo de magie de création de réactifs (avec une reussite suffisante, tentative pour les créer a partir d'essence pure..)
+* des échantillons de mutahumains (rien de particulier, pas infectés, les morceaux infectés de cet étage sont partis avec les chercheurs)
+* les recherches ont été abandonnés il y a 2 semaines et le labo va être "nettoyés" demain (les raisons.. TGCM and stuff)
+* le laboratoire 17 est reférencé dans beaucoup d'informations (compte rendu papier, datapad, etc)
+* cette partie du labo est offline (pas connecté à la matrice) 
+* et d'autres si idées. Le labo 17 étant l'information la plus importante. 
 
 Dans le labo 17, une grande table d'autopsie trone au milieur de la salle mais est bizarement trop grande. Les personnages auront trouvés un code (surement en plusieurs morceaux) et trouveront un panneau digicode (il est très difficilement hackable genre un maglock mais avec un firewall 5, indice 6). Quand ils taperont le code, un ascenseur sort du sol a l'endroit de la table d'autopsie. Si ils se trompent, rate le hack ou casse le digicode, une alarme se déclenche et le groupe d'intervention arrivera dans 2h, l'ascenseur se revele en annoncant qu'il ne doit être utilisé que par les forces de sécurité.
 
