@@ -7,7 +7,9 @@ Les PJs sont envoyés chercher des documents de recherche et si possible des éc
 
 ## Arrivée
 
-Le complexe s'étend sur 1 hectare dont la moitié est batiment et  le reste en jardins et parkings. Le complexe est composé d'un rez de chaussé, d'un premier sous-sol et et d'un grand centre de recherche souterrain de 4 hectares (encore faut-il en trouver l'entrée). Il est situé dans à l'ouest de Auburn. Le premier étage contient un grand hall d'acceuil et de deux immenses open space de bureau. On peut acceder au premier sous-sol par deux escaliers derriere l'acceuil. Le sous-sol contient des laboratoires de recherches abandonnées. Certains sont vitrés, d'autres pas. Beaucoup de matériel est cassé et renversé, on dirait que la zone a déjà été fouillé et pillé plusieurs fois. 
+Le complexe s'étend sur 1 hectare dont la moitié est batiment et  le reste en jardins et parkings. Le complexe est composé d'un rez de chaussé, d'un premier sous-sol et et d'un grand centre de recherche souterrain de 4 hectares (encore faut-il en trouver l'entrée). Il est situé dans à l'ouest de Auburn. 
+
+Le premier étage contient un grand hall d'acceuil et de deux immenses open space de bureau. On peut acceder au premier sous-sol par deux escaliers derriere l'acceuil. Le sous-sol contient des laboratoires de recherches abandonnées. Certains sont vitrés, d'autres pas. Beaucoup de matériel est cassé et renversé, on dirait que la zone a déjà été fouillé et pillé plusieurs fois. 
 
 ## Recherche rez de chaussé
 
