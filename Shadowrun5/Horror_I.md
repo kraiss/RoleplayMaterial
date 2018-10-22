@@ -3,7 +3,7 @@
 
 ## Emploi
 
-Les PJs sont envoyés chercher des documents de recherche et si possible des échantillons dans un complexe de recherche biologique maintenant désafecté. Il n'y a plus dé sécurité. Il a déjà envoyé un équipe mais ils n'ont rien trouvé d'interessant. Son commanditaire assure qu'il y a mieux a trouver. 
+Les PJs sont envoyés chercher sur une mission d'extraction. Une équipe scientifique est partie récupérer des documents de recherche et des échantillons dans un complexe de recherche biologique recement désafecté. Le complexe étant vide et la sécurité désactivée, ils ne sont pas partis avec une équipe de protection. Il n'a plus de contact avec eux depuis 24h.
 
 ## Arrivée
 
@@ -17,7 +17,7 @@ Beaucoup de notes sur des recherches sur des des métahumains et sur l'éveil. A
 
 ## Recherche sous-sol 
 
-L'endroit a été pillé. Ils devront cherchés dans plusieurs labos pour avoir assez d'information à recouper. Il leur faudra différent tests comme enquete physique ou matrice, connaissance en science, etc. Parmi les informations: 
+L'endroit semble avoir été pillé. Ils commenceront leur recherche mais ne trouveront pas grand choses de prime abord et devront cherchés dans plusieurs labos pour recouper les information suivante. Il leur faudra différent tests comme enquete physique ou matrice, connaissance en science, etc. Parmi les informations: 
 * analyse de tissus de plusieurs métatypes qui semble altérés par une source externe (avec les connaissances suffisantes un virus, avec les connaissances parfaites le VVHMH souche III)
 * labo de magie de création de réactifs (avec une reussite suffisante, tentative pour les créer a partir d'essence pure..)
 * des échantillons de mutahumains (rien de particulier, pas infectés, les morceaux infectés de cet étage sont partis avec les chercheurs)
@@ -25,6 +25,12 @@ L'endroit a été pillé. Ils devront cherchés dans plusieurs labos pour avoir 
 * le laboratoire 17 est reférencé dans beaucoup d'informations (compte rendu papier, datapad, etc)
 * cette partie du labo est offline (pas connecté à la matrice) 
 * et d'autres si idées. Le labo 17 étant l'information la plus importante. 
+
+Il seront attaqués par une (ou deux) goule qui les prend par surprise et vont être infectés, soit par blessures, soit par projection de sang. C'est une des personnes à sauver, ils la reconnaissent à ses vetements. Sur la goule, ils trouvent une note décrivant l'emplacement d'un ascenseur dans le laboratoire 17, son code d'accès et l'info qu'ils pourront trouver des souches et des serums dans les labo 1 et 2 dans la "section souterraine".
+
+La goule doit être assez forte pour leur faire comprendre qu'elles sont dangereuses et qu'ils n'ont aucune chance contre plusieurs goules (sans toutefois leur dire qu'ils rencontreront très bientot une meute de goules :p )
+
+Ils doivent donc descendre pour essayer de trouver le serum et sauver leur peau (ou du moins ceux qui s'ont infectés ^^)
 
 Dans le labo 17, une grande table d'autopsie trone au milieur de la salle mais est bizarement trop grande. Les personnages auront trouvés un code (surement en plusieurs morceaux) et trouveront un panneau digicode (il est très difficilement hackable genre un maglock mais avec un firewall 5, indice 6). Quand ils taperont le code, un ascenseur sort du sol a l'endroit de la table d'autopsie. Si ils se trompent, rate le hack ou casse le digicode, une alarme se déclenche et le groupe d'intervention arrivera dans 2h, l'ascenseur se revele en annoncant qu'il ne doit être utilisé que par les forces de sécurité.
 
