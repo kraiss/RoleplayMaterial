@@ -3,17 +3,17 @@
 
 ## Emploi
 
-Les PJs sont envoyés chercher sur une mission d'extraction. Une équipe scientifique est partie récupérer des documents de recherche et des échantillons dans un complexe de recherche biologique recement désafecté. Le complexe étant vide et la sécurité désactivée, ils ne sont pas partis avec une équipe de protection. Il n'a plus de contact avec eux depuis 24h.
+Les PJs sont envoyés sur une mission d'extraction. Une équipe scientifique est partie récupérer des documents de recherche et des échantillons dans un complexe de recherche biologique recement désafecté. Le complexe étant vide et la sécurité désactivée, ils ne sont pas partis avec une équipe de protection. Mr. Johnson n'a plus de contact avec eux depuis 24h.
 
 ## Arrivée
 
-Le complexe s'étend sur 1 hectare dont la moitié est batiment et  le reste en jardins et parkings. Le complexe est composé d'un rez de chaussé, d'un premier sous-sol et et d'un grand centre de recherche souterrain de 4 hectares (encore faut-il en trouver l'entrée). Il est situé dans à l'ouest de Auburn. 
+Le complexe s'étend sur 1 hectare dont la moitié est un batiment et le reste, des jardins et des parkings. Le complexe est composé d'un rez de chaussé, d'un premier sous-sol et et d'un grand centre de recherche souterrain de 4 hectares (encore faut-il en trouver l'entrée). Il est situé dans à l'ouest de Auburn. 
 
-Le premier étage contient un grand hall d'acceuil et de deux immenses open space de bureau. On peut acceder au premier sous-sol par deux escaliers derriere l'acceuil. Le sous-sol contient des laboratoires de recherches abandonnées. Certains sont vitrés, d'autres pas. Beaucoup de matériel est cassé et renversé, on dirait que la zone a déjà été fouillé et pillé plusieurs fois. 
+Le premier étage contient un grand hall d'acceuil et de deux immenses open space de bureau. On peut acceder au premier sous-sol par deux escaliers derriere l'acceuil. Le sous-sol contient des laboratoires de recherches abandonnés. Certains sont vitrés, d'autres pas. Beaucoup de matériel est cassé et renversé, on dirait que la zone a déjà été fouillée et pillée plusieurs fois. 
 
 ## Recherche rez de chaussé
 
-Beaucoup de notes sur des recherches sur des des métahumains et sur l'éveil. Avec un bon test de recherche physique, on remarque que beaucoup notes sont copiés (comme si les documents étaient dupliqués). Même chose pour un test de recherche matricielle mais une excellente réussite révelera que les documents semblent avoir été copié tel quel, pas rédigé. Une recherche astral ne révélera rien mais un sensation opressante, plus la reussite est grande, plus la sensation est forte.
+Beaucoup de notes sur des recherches sur des des métahumains et sur l'éveil. Avec un bon test de recherche physique, on remarque que beaucoup notes sont copiés (comme si les documents étaient dupliqués). Même chose pour un test de recherche matricielle mais une excellente réussite révelera que les documents semblent avoir été copié tel quel, pas rédigé. Une recherche astral ne révélera rien mais un sensation opressante venu du sous-sol, plus la reussite est grande, plus la sensation est forte.
 
 ## Recherche sous-sol 
 
@@ -32,17 +32,21 @@ La goule doit être assez forte pour leur faire comprendre qu'elles sont dangere
 
 Ils doivent donc descendre pour essayer de trouver le serum et sauver leur peau (ou du moins ceux qui s'ont infectés ^^)
 
-Dans le labo 17, une grande table d'autopsie trone au milieur de la salle mais est bizarement trop grande. Les personnages auront trouvés un code (surement en plusieurs morceaux) et trouveront un panneau digicode (il est très difficilement hackable genre un maglock mais avec un firewall 5, indice 6). Quand ils taperont le code, un ascenseur sort du sol a l'endroit de la table d'autopsie. Si ils se trompent, rate le hack ou casse le digicode, une alarme se déclenche et le groupe d'intervention arrivera dans 2h, l'ascenseur se revele en annoncant qu'il ne doit être utilisé que par les forces de sécurité.
+Dans le labo 17, une grande table d'autopsie trone au milieur de la salle mais est bizarement trop grande. Quand ils taperont le code, un ascenseur sort du sol a l'endroit de la table d'autopsie.
 
 ## Dans l'ascenseur
 
-L'ascenseur semble descendre plusieurs dizaines de mètres. A un moment, ils sont projeté sur le plafond de l'ascenseur. Un mage reconnaitra une barrière magique puissante mais faible. L'ascenseur force et la barrière cède. L'ascenseur dégringole encore quelques mètres avant de s'écraser. Si ce n'était pas déjà le cas, l'alarme se déclenche et annonce l'arrivée du groupe d'intervention. 
+L'ascenseur semble descendre plusieurs dizaines de mètres. A un moment, ils sont projeté sur le plafond de l'ascenseur. Un mage reconnaitra une barrière magique puissante mais faible. L'ascenseur force et la barrière cède. L'ascenseur dégringole encore quelques mètres avant de s'écraser. L'alarme se déclenche et annonce l'arrivée du groupe d'intervention. 
 
 # Le complexe
 
 ## Debut
 
-Le complexe est lumineux et l'alarme sonne, les PJ s'extraient de l'ascenseur alors que arcs éléctriques se créent. Un arc fait un grand bruit et fait dysjoncter tout les complexe. Moment dans le noir où l'on entends de cris strident qui se rapprochent. Puis les lumières de secours prennent le relais. L'endroit à l'air plutot en ordre surtout par ici. Les cris continuent de se rapprocher, aux bouts d'un moment même des bruits de griffes. Ils doivent s'abriter, leur meilleur chance et de rentrer dans un pièce et de s'y cacher OU de séloigner le plus vite possible de l'ascenseur dans un couloir qui d'où ne semble pas venir des bruit.
+Le complexe est lumineux et l'alarme sonne rameutant toutes les goules du complexe vers la zone de l'ascenseur. Les PJs s'extraient de l'ascenseur alors que arcs éléctriques se créent et doivent vite partir pour s'éloigner de la zone et trouver un abri. Leur meilleur chance est de rentrer dans une pièce et de s'y cacher OU de séloigner le plus vite possible de l'ascenseur dans un couloir qui d'où ne semble pas venir des bruit. Les cris continuent de se rapprocher, aux bouts d'un moment même des bruits de griffes. Si il ne le comprenne pas d'eux même, il faut trouver un moyen d'expliquer aux PJs qu'ils n'ont aucune chance contre autant de goules en meme temps.
+
+Quand les goules arrivent, si les PJs sont encore la, fin du scénario, RIP. Sinon, les goules tentent de monter dans la cage d'ascenseur. Un arc fait un grand bruit et fait dysjoncter tout les complexe. Attention les PJs ne sont pas là pour le voir en direct mais peuvent etre des cris de douleurs des goules et un grand bruit de claquement éléctrique. Le complexe est plongé dans le noir quelques secondes, puis les lumières de secours prennent le relais.
+
+L'intérieur des labos est en ordre mais ils pourront retrouver ca et là, le reste de l'équipe qu'ils devaient extraire. Souvent à moitié dévorer, déchiqueter, pas forcement en un seul morceau. Il est possible de leur souffler qu'à defaut de ramener l'équipe, ils peuvent toujours ramener ce que l'équipe était aller chercher. L'endroit à l'air plutot en ordre si ont exclus les cadavres, donc pas de pillards.
 
 ## Exploration
 
